@@ -1,20 +1,22 @@
 # Hi 👋, I'm vic ice
+### A passionate Typescript developer transitioning into AI/ML
 
-### A passionate Typescript developer
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vic-ice&label=Profile%20views&color=0e75b6&style=flat-square" alt="vic-ice" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-ice&label=Profile views&color=0e75b6&style=flat" alt="vic-ice" /> </p>
+---
 
-- 🌱 当前学习 | Currently Learning
-    机器学习、深度学习、大语言模型、强化学习
-    ML, DL, LLM, RL
+### 🚀 关于我 | About Me
 
-- 💬 关于我 | About Me
-除了代码，我的充电三件套是：
-🛌 睡觉补能量
-🎵 音乐调心情
-🎮 游戏开脑洞
-劳逸结合，持续输出。
+- 🛌 **能量来源**：充足的睡眠
+- 🎵 **情绪调节**：沉浸式音乐
+- 🎮 **灵感迸发**：游戏开脑洞
+- 🌱 **当前深耕**：机器学习 (ML)、深度学习 (DL)、大语言模型 (LLM)、强化学习 (RL)
 
+> 劳逸结合，持续输出。Code hard, play harder.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
