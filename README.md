@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vic-ice&label=Profile%20views&color=0e75b6&style=flat-square" alt="vic-ice" /> 
 </p>
 ---
-### 🚀 关于我 | About Me
+🚀 关于我 | About Me
 - 机器学习 (ML)、深度学习 (DL)、大语言模型 (LLM)、强化学习 (RL)
 ---
 
