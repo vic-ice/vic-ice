@@ -4,18 +4,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vic-ice&label=Profile%20views&color=0e75b6&style=flat-square" alt="vic-ice" /> 
 </p>
-
 ---
-
 ### 🚀 关于我 | About Me
-
-- 🛌 **能量来源**：充足的睡眠
-- 🎵 **情绪调节**：沉浸式音乐
-- 🎮 **灵感迸发**：游戏开脑洞
-- 🌱 **当前深耕**：机器学习 (ML)、深度学习 (DL)、大语言模型 (LLM)、强化学习 (RL)
-
-> 劳逸结合，持续输出。Code hard, play harder.
-
+- 机器学习 (ML)、深度学习 (DL)、大语言模型 (LLM)、强化学习 (RL)
 ---
 
 <h3 align="left">Connect with me:</h3>
