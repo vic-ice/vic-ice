@@ -26,6 +26,6 @@
 ### 📊 GitHub 数据统计
 
 <p align="center">
-  <img src="https://github-readme-stats.lithub.cc/api?username=vic-ice&show_icons=true&locale=cn&theme=transparent&hide_border=true" alt="vic-ice 的数据统计" />
-  <img src="https://github-readme-stats.lithub.cc/api/top-langs?username=vic-ice&locale=cn&layout=compact&theme=transparent&hide_border=true" alt="vic-ice 的常用语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vic-ice&show_icons=true&locale=cn&theme=transparent&hide_border=true" alt="vic-ice 的数据统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vic-ice&locale=cn&layout=compact&theme=transparent&hide_border=true" alt="vic-ice 的常用语言" />
 </p>
